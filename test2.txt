@@ -1,0 +1,4 @@
+DistrictNo,Neighbourhoods,Med_HousePrice,Latitude,Longitude
+C01,DowntownHarbourfront,1990000,43.6400801,-79.3801495
+C02,TheAnnexYorkvilleSouthHill,2262000,43.67468245,-79.3992558
+C03,ForestHillSouthOakwoodVaughanHumewoodCedarvale,1400000,43.6827255,-79.4380548
